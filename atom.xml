@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>云横清岭</title>
+  
+  <subtitle>云横清岭</subtitle>
+  <link href="http://serenity1994.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://serenity1994.github.io/"/>
+  <updated>2024-06-12T06:15:42.000Z</updated>
+  <id>http://serenity1994.github.io/</id>
+  
+  <author>
+    <name>Serenity1994</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Intellij Idea自定义语法解析器</title>
+    <link href="http://serenity1994.github.io/posts/c5f2061d.html"/>
+    <id>http://serenity1994.github.io/posts/c5f2061d.html</id>
+    <published>2024-06-12T06:15:42.000Z</published>
+    <updated>2024-06-12T06:15:42.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;todo&lt;br&gt;今天在研究hexo-butterfly外挂标签语法的时候,苦于idea无法识别外挂标签的特殊语法,无法做到高亮和标签匹配, 文档写起来很麻烦,&lt;br&gt;所以就想着能不能弄一个idea插件,能够识别这些特殊语法.&lt;/p&gt;
+&lt;p&gt;需求:</summary>
+        
+      
+    
+    
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/categories/Intellij-Idea/"/>
+    
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/tags/Intellij-Idea/"/>
+    
+    <category term="语法解析器" scheme="http://serenity1994.github.io/tags/%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>科目二考试</title>
+    <link href="http://serenity1994.github.io/posts/6ac9451.html"/>
+    <id>http://serenity1994.github.io/posts/6ac9451.html</id>
+    <published>2024-06-11T04:44:05.000Z</published>
+    <updated>2024-06-11T04:44:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;上车后准备&quot;&gt;&lt;a href=&quot;#上车后准备&quot; class=&quot;headerlink&quot; title=&quot;上车后准备&quot;&gt;&lt;/a&gt;上车后准备&lt;/h1&gt;&lt;h2 id=&quot;调整座椅高度-前后-靠背&quot;&gt;&lt;a href=&quot;#调整座椅高度-前后-靠背&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Intellij Idea] live template详细介绍</title>
+    <link href="http://serenity1994.github.io/posts/1f9d7180.html"/>
+    <id>http://serenity1994.github.io/posts/1f9d7180.html</id>
+    <published>2024-06-11T03:41:09.000Z</published>
+    <updated>2024-06-11T03:41:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;live-template是什么&quot;&gt;&lt;a href=&quot;#live-template是什么&quot; class=&quot;headerlink&quot; title=&quot;live template是什么&quot;&gt;&lt;/a&gt;live template是什么&lt;/h1&gt;&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/categories/Intellij-Idea/"/>
+    
+    
+    <category term="备忘录" scheme="http://serenity1994.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/tags/Intellij-Idea/"/>
+    
+    <category term="live template" scheme="http://serenity1994.github.io/tags/live-template/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Intellij Idea] 快捷键以及自定义</title>
+    <link href="http://serenity1994.github.io/posts/e248359.html"/>
+    <id>http://serenity1994.github.io/posts/e248359.html</id>
+    <published>2024-06-11T01:18:58.000Z</published>
+    <updated>2024-06-11T01:18:58.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何解决每次新建IDEA工程都需要修改setting配置位置问题&quot;&gt;&lt;a href=&quot;#如何解决每次新建IDEA工程都需要修改setting配置位置问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/categories/Intellij-Idea/"/>
+    
+    
+    <category term="备忘录" scheme="http://serenity1994.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="Intellij Idea" scheme="http://serenity1994.github.io/tags/Intellij-Idea/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-butterfly主题配置</title>
+    <link href="http://serenity1994.github.io/posts/6febe33f.html"/>
+    <id>http://serenity1994.github.io/posts/6febe33f.html</id>
+    <published>2024-06-10T15:50:10.000Z</published>
+    <updated>2024-06-10T15:50:10.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;博主分享的教程&quot;&gt;&lt;a href=&quot;#博主分享的教程&quot; class=&quot;headerlink&quot; title=&quot;博主分享的教程&quot;&gt;&lt;/a&gt;博主分享的教程&lt;/h2&gt;&lt;div class=&quot;tag link&quot;&gt;&lt;a class=&quot;link-card&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="网站搭建" scheme="http://serenity1994.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="网站搭建" scheme="http://serenity1994.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/tags/hexo/"/>
+    
+    <category term="hexo-butterfly" scheme="http://serenity1994.github.io/tags/hexo-butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自用butterfly外挂标签说明书</title>
+    <link href="http://serenity1994.github.io/posts/be8ee7ca.html"/>
+    <id>http://serenity1994.github.io/posts/be8ee7ca.html</id>
+    <published>2024-06-10T14:12:00.000Z</published>
+    <updated>2024-06-14T15:30:11.474Z</updated>
+    
+    
+    <summary type="html">butterfly外挂标签相关语法</summary>
+    
+    
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/categories/hexo/"/>
+    
+    
+    <category term="备忘录" scheme="http://serenity1994.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="http://serenity1994.github.io/tags/butterfly/"/>
+    
+    <category term="tag plugins" scheme="http://serenity1994.github.io/tags/tag-plugins/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小书匠实用快捷键</title>
+    <link href="http://serenity1994.github.io/posts/8d646aaa.html"/>
+    <id>http://serenity1994.github.io/posts/8d646aaa.html</id>
+    <published>2024-06-10T13:55:04.000Z</published>
+    <updated>2024-06-10T13:55:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;默认快捷键&quot;&gt;&lt;a href=&quot;#默认快捷键&quot; class=&quot;headerlink&quot; title=&quot;默认快捷键&quot;&gt;&lt;/a&gt;默认快捷键&lt;/h2&gt;&lt;p&gt;插入链接: &lt;kbd&gt;ctrl&lt;/kbd&gt; +</summary>
+        
+      
+    
+    
+    
+    <category term="小书匠" scheme="http://serenity1994.github.io/categories/%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
+    
+    
+    <category term="小书匠" scheme="http://serenity1994.github.io/tags/%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
+    
+    <category term="备忘录" scheme="http://serenity1994.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始搭建hexo个人网站</title>
+    <link href="http://serenity1994.github.io/posts/5abba8ef.html"/>
+    <id>http://serenity1994.github.io/posts/5abba8ef.html</id>
+    <published>2024-06-10T13:17:48.000Z</published>
+    <updated>2024-06-10T13:17:48.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-安装Hexo&quot;&gt;&lt;a href=&quot;#1-安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;1. 安装Hexo&quot;&gt;&lt;/a&gt;1. 安装Hexo&lt;/h2&gt;&lt;h2 id=&quot;2-将网站发布到github-pages&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="网站搭建" scheme="http://serenity1994.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="网站搭建" scheme="http://serenity1994.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/tags/hexo/"/>
+    
+    <category term="github-pages" scheme="http://serenity1994.github.io/tags/github-pages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自用hexo-butterfly主题参考手册</title>
+    <link href="http://serenity1994.github.io/posts/db428764.html"/>
+    <id>http://serenity1994.github.io/posts/db428764.html</id>
+    <published>2024-06-10T11:26:05.000Z</published>
+    <updated>2024-06-10T11:26:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;butterfly官方文档&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://serenity1994.github.io/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="http://serenity1994.github.io/tags/butterfly/"/>
+    
+  </entry>
+  
+</feed>
