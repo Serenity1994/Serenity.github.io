@@ -6,7 +6,7 @@
   <link href="http://serenity1994.github.io/atom.xml" rel="self"/>
   
   <link href="http://serenity1994.github.io/"/>
-  <updated>2024-06-12T06:15:42.000Z</updated>
+  <updated>2024-06-21T10:43:37.000Z</updated>
   <id>http://serenity1994.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>postman相关</title>
+    <link href="http://serenity1994.github.io/posts/d324ee3c.html"/>
+    <id>http://serenity1994.github.io/posts/d324ee3c.html</id>
+    <published>2024-06-21T10:43:37.000Z</published>
+    <updated>2024-06-21T10:43:37.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;将返回参数保存至环境变量&quot;&gt;&lt;a href=&quot;#将返回参数保存至环境变量&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="postman" scheme="http://serenity1994.github.io/categories/postman/"/>
+    
+    
+    <category term="postman" scheme="http://serenity1994.github.io/tags/postman/"/>
+    
+  </entry>
   
   <entry>
     <title>Intellij Idea自定义语法解析器</title>
@@ -155,7 +180,7 @@
     <link href="http://serenity1994.github.io/posts/be8ee7ca.html"/>
     <id>http://serenity1994.github.io/posts/be8ee7ca.html</id>
     <published>2024-06-10T14:12:00.000Z</published>
-    <updated>2024-06-14T15:30:11.474Z</updated>
+    <updated>2024-06-15T14:39:25.006Z</updated>
     
     
     <summary type="html">butterfly外挂标签相关语法</summary>
